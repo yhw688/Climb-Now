@@ -22,9 +22,7 @@ Unlike traditional social networking platforms, Climb Now focuses on scheduling 
 
 ## Project Status
 
-🚧 Early Planning & Design
-
-Climb Now is currently an independent personal software project in the design phase.
+Early Planning & Design
 
 ## Documentation
 
